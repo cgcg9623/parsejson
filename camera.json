@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Dahua1",
+      "protocol": "rtsp",
+      "ip": "192.168.6.45",
+      "path": "/cam/realmonitor\\?channel=1\\&subtype=0",
+      "id": "admin",
+      "password": "cardoc2\\!",
+      "fps": 1
+    },
+    {
+      "name": "Dahua2",
+      "protocol": "rtsp",
+      "ip": "192.168.6.45",
+      "path": "/cam/realmonitor\\?channel=1\\&subtype=0",
+      "id": "admin",
+      "password": "cardoc2\\!",
+      "fps": 5
+    }
+  ]
